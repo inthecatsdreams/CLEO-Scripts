@@ -4,7 +4,7 @@ Repo for my CLEO redux scripts
 # Install
 Put the folders in your CLEO folder
 
-```health`` gives you infinite armour and health
+```health``` gives you infinite armour and health
 
 ```removed-wanted-level``` press F1 while in-game to remove your wanted level
 
