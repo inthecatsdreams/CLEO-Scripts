@@ -8,6 +8,7 @@ if (HOST == hosts[0] || HOST == hosts[1] || HOST == hosts[2]) {
             player.setHealth(250);
             player.setNeverGetsTired(true);
             player.addArmour(250);
+            
         }, 100);
     }
 

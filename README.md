@@ -10,3 +10,9 @@ Put the folders in your CLEO folder
 
 
 ```gimme-money``` press F2 in-game to give yourself 1 000 000 dollars
+
+```freeze-timer``` press F3 while on mission to freeze the timer (if there is one)
+
+## Compatibility
+
+GTA III DE, GTA VC DE, GTA SA DE
