@@ -13,6 +13,9 @@ Put the folders in your CLEO folder
 
 ```freeze-timer``` press F3 while on mission to freeze the timer (if there is one)
 
+```ammo``` gives the player infinite ammo
+
+
 ## Compatibility
 
 GTA III DE, GTA VC DE, GTA SA DE
